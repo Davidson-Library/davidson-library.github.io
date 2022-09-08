@@ -2,8 +2,7 @@
 title: Davidson College Library Github Page
 email: digitallearning@davidson.edu
 description: Sandbox environment intended for documentation and knowledge sharing, both internal and internal
-baseurl: "davidson-library.github.io/" # the subpath of your site, e.g. /blog
-url: "https://davidson-library.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-markdown: GFM
+url: "https://davidson-library.github.io"
+markdown: kramdown
 twitter_username: DavidsonLibrary
 github_username:  Davidson-Library
