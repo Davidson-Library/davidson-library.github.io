@@ -4,5 +4,6 @@ email: digitallearning@davidson.edu
 description: Sandbox environment intended for documentation and knowledge sharing, both internal and internal
 url: "https://davidson-library.github.io"
 markdown: kramdown
+theme: minima
 twitter_username: DavidsonLibrary
 github_username:  Davidson-Library
