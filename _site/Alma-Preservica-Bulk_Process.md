@@ -21,7 +21,7 @@ Bulk export from Alma and splitting into multiple XML files after XSL transforma
 
 #### Create Analysis in Alma Analytics
 
-Click on **Analytics** then **Design Analytics** to open the Oracle Dashbaord.
+Click on **Analytics** then **Design Analytics** to open the Oracle Dashboard.
 
 ![Design Analytics link](help_files/Analytics_Design.png)
 
@@ -29,7 +29,7 @@ Click on **Catalog** then navigate to the **Alma Digital shared folder** and **c
 
 ![Catalog and Folder Directory](help_files/Analytics_Edit_Template.png)
 
-It will by default show you the results, so click the **Critera** tab at the top-left. Then **click the gear** next to the "Collection Name" column to apply a filter.
+It will by default show you the results, so click the **Criteria** tab at the top-left. Then **click the gear** next to the "Collection Name" column to apply a filter.
 
 ![Criteria Apply Filter](help_files/Analytics_Edit_Filter.png)
 
@@ -86,7 +86,7 @@ It will now show up as a set under **My Sets**. :tada:
 **Change** the following parameters:
 
 1. Target format = `OAI DC`
-2. Bibliographic reford formats to include = `Dublin Core`
+2. Bibliographic record formats to include = `Dublin Core`
 
 Everything else can be left as is. **Click Next**.
 
